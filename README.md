@@ -47,3 +47,22 @@ These datasets include information about candidates, parties, votes, constituenc
 ---
 
 ## 📁 Project Structure
+India-Elections-SQL-Analysis/
+│── dataset/
+│── queries.sql
+│── README.md
+
+---
+
+## 🚀 How to Use
+1. Import all CSV files into your SQL database
+2. Run the queries from `queries.sql.`
+3. Analyze the outputs to gain insights
+
+---
+
+## ⭐ Project Highlights
+- Real-world dataset (India Elections 2024)
+- Advanced SQL queries (Joins, Aggregations, CTEs)
+- Business-driven insights
+- Portfolio-ready project for Data Analyst roles
